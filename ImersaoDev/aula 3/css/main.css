@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://www.focus.jor.br/wp-content/uploads/2018/04/Bola-de-cristal-2-768x510.jpg");
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+.resultado {
+    color: rgb(244, 239, 83);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: rgb(244, 239, 83);
+}
+
+.page-subtitle {
+    color: rgb(244, 239, 83);
+}

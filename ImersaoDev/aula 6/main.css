@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://t4.ftcdn.net/jpg/03/34/19/13/360_F_334191354_zW1Fj9HPbfJdBPEVe2d6mcuT1w2g8K5y.jpg");
+    background-color: rgb(16, 16, 16);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.page-title {
+    color: aliceblue;
+}
+
+th {
+    border: solid 1px white;
+    color: aliceblue;
+}
+
+td {
+    border: solid 1px white;
+    color: aliceblue;
+}
+
+table {
+    border: 2px solid white;
+    border-collapse: collapse;
+}
